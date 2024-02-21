@@ -24,7 +24,7 @@ const data = async function(search){
         weatherType.innerHTML = "Not Found";
         wind.innerHTML = "km/h";
         humidity.innerHTML = "%";
-        airPressure.innerHTML = "mBar";
+        airPressure.innerHTML = "hPa";
         visibility.innerHTML = "km";
     }
 
